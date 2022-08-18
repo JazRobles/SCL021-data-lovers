@@ -50,6 +50,8 @@ for (var i = 0; i < dataRickAndMorty.length; i++) {
   especies.push(dataRickAndMorty[i].species);
   setGenero.push(dataRickAndMorty[i].gender);
 }
+
+//el Set se esta utlizando para propagar un arreglo y que pasen todos sus datos
 const especiesOpciones = [...new Set(especies)];
 //este for pinta el selector de especies
 for (let especie of especiesOpciones) {
@@ -78,6 +80,8 @@ function print(data) {
 
 selectorEspecies.addEventListener("change", function () {
   document.getElementById("root").innerHTML = "";
+  //aqui comienza el filtro de datos
+  //aqui se seleccionan las especies y generos para aplicar el filtro
   const dataFiltrada = filterData(dataRickAndMorty, selectorEspecies.value);
   if (selectorGenero.value !== "generos") {
     print(sortData(filtroGenero(dataFiltrada, selectorGenero.value),"name"));
