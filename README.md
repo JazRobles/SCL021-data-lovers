@@ -24,10 +24,10 @@ Adicionalmente a esta información, para nuestros usuarios es importante poder v
 ## Experiencia de usuario
 El proyecto fue diseñado en un prototipo en la plataforma Figma y gracias a una lluvia de ideas y feedbacks de comapñeras, logramos hacer la
 pagina de otra manera mas organizada visualmente.
-
+(Adjunto link de figma para ver prototipo
+https://www.figma.com/proto/Q1l6dfTrQJyWJUoumjgs0k/Untitled?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3)
 
 ![45254ea4-ac09-4424-870a-54fd5537542f](https://user-images.githubusercontent.com/108200076/185183842-f14c6764-4f88-47ae-8107-cbf56600595b.jpg)
 
 
-(Adjunto link de figma para ver prototipo
-https://www.figma.com/proto/Q1l6dfTrQJyWJUoumjgs0k/Untitled?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3)
+
