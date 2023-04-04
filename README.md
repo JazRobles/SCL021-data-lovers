@@ -10,8 +10,8 @@ En el pie final de la pagina de Rick and Morty se logra apreciar el GITHUB de ca
 <img
   style="width: 100%; margin: auto; display: block;"
   class="vidyard-player-embed"
-  src="https://play.vidyard.com/ZKGVqomwn1GVBx6agUpuFs.jpg"
-  data-uuid="ZKGVqomwn1GVBx6agUpuFs"
+  src="https://play.vidyard.com/V8BZK7wAVKJf1LVw6ccNgQ.jpg"
+  data-uuid="V8BZK7wAVKJf1LVw6ccNgQ"
   data-v="4"
   data-type="inline"
 />
