@@ -7,6 +7,14 @@ donde eligira por especie y genero los personajes.
 Al seleccionar una especie junto con el genero, saldran las cartas con la descripcion de los personajes donde sabras el nombre y si es humano, aliens, etc.
 En el pie final de la pagina de Rick and Morty se logra apreciar el GITHUB de cada una de las que crearon esta data junto con el Instagram oficial de tu serie favorita.
 
+<img
+  style="width: 100%; margin: auto; display: block;"
+  class="vidyard-player-embed"
+  src="https://play.vidyard.com/ZKGVqomwn1GVBx6agUpuFs.jpg"
+  data-uuid="ZKGVqomwn1GVBx6agUpuFs"
+  data-v="4"
+  data-type="inline"
+/>
 ![72943e47-6631-4eee-97f5-44d763090ce7](https://user-images.githubusercontent.com/108200076/185179746-eb04611c-3c14-467c-a9c5-90f83f8a8347.jpg)
 ![e38a8363-bad9-4db6-8e71-1d564c1a649c](https://user-images.githubusercontent.com/108200076/185179884-0d69b1c0-0b52-41d5-8b93-2bb5de1e547f.jpg)
 
